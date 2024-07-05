@@ -1,1 +1,1 @@
-A function that returns a line read from a file descriptor.
+A programme that returns a line read from a file descriptor.
